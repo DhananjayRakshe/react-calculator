@@ -85,6 +85,7 @@ button:hover {
 
 p{
     display: flex;
+    flex-wrap: wrap;
     padding: 16px;
     background-color: var(--dark);
     color: var(--light);
