@@ -82,3 +82,17 @@ button:hover {
     max-width: 33.333%;
     background-color: var(--dark);
 }
+
+p{
+    display: flex;
+    padding: 16px;
+    background-color: var(--dark);
+    color: var(--light);
+    align-items: center;
+    justify-content: center;
+}
+
+p a {
+   color: var(--primary);
+   margin-left: 6px; 
+}
